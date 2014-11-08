@@ -1,3 +1,6 @@
+@Cron
+====
+
 This is just an idea. I will implement this in my spare time.
 
 What's problem with cron system of Drupal 7?
